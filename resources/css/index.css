@@ -42,7 +42,7 @@ cursor: pointer;
 
 @media only screen and (max-width: 750px) {
 
-    .navlist {
+  .navlist a {
 font-size: 2vw;
 
     }
