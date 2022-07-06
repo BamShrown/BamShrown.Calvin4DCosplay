@@ -26,12 +26,12 @@ text-decoration: none;
 .navlist {
 margin-right: 5%;
 list-style: none;
-font-size: 1em;
 opacity: 1;
 }
 
 .navlist a {
 text-decoration: none;
+font-size: 1em;
 }
 
 .navlist a:hover {
@@ -42,7 +42,7 @@ cursor: pointer;
 
 @media only screen and (max-width: 750px) {
 
-  .navlist a {
+.navlist a {
 font-size: 5vw;
 
     }
